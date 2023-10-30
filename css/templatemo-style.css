@@ -420,8 +420,9 @@ section {
 }
 
 .about-info .section-title {
-  /* margin: 40px 0 40px 0; */
-  margin: auto;
+  margin: 40px 0 40px 0;
+  text-align: center;
+  /* margin: auto; */
 }
 
 .about-info {

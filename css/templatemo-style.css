@@ -54,8 +54,9 @@ h4 {
 }
 
 p {
-  color: #757575;
-  font-size: 14px;
+  /* color: #757575; */
+  color: #000000;
+  font-size: 18px;
   font-weight: normal;
   line-height: 25px;
 }
@@ -419,7 +420,8 @@ section {
 }
 
 .about-info .section-title {
-  margin: 40px 0 40px 0;
+  /* margin: 40px 0 40px 0; */
+  margin: auto;
 }
 
 .about-info {
